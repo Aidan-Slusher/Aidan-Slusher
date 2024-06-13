@@ -2,8 +2,8 @@
  
  ## Timeline
  - November 2022 - Created a securtiy camera For a class Project
- - june 2023 - Got my first Internship
- - October 2023 Got my second Intership
+ - june 2023 - Got my first Internship with Crossfit Stomping Grounds 
+ - October 2023 Got my second Intership with Makhaira group
  - December 2023 - Created a ML algorithm for weather prediction
  - May 2024 Created a chatbot interaction program for a class project
  - May 2024 With a team created a travel app for a class project
