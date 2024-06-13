@@ -9,11 +9,22 @@
  - May 2024 With a team created a travel app for a class project
  
  ## Table of Contents
+  - Project examples
+  - Couse work examples
+  - Course Websites
  
- 
- ## Item 1
+ ## Projects
  - Term project
      - [Git link](https://github.com/Aidan-Slusher/CS312-term-project)
  - Weather project
      - [Git link](https://github.com/Aidan-Slusher/Weather-Accident-Prediction)
+  
+ ## Course Work
+
+
+  ## Course Websites 
+  - CS 250 https://www.cs.colostate.edu/~cs250/assignments.html
+  - CS 370 https://www.cs.colostate.edu/~cs370/Spring22/
+  - CS 435 https://www.cs.colostate.edu/~cs435/Syllabus.html
+  - CS 455 https://www.cs.colostate.edu/~csx55/
  
