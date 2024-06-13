@@ -24,6 +24,7 @@
 
   ## Course Websites 
   - CS 250 https://www.cs.colostate.edu/~cs250/assignments.html
+  - CT 301 https://www.cs.colostate.edu/~ct301/SP24/#/
   - CS 370 https://www.cs.colostate.edu/~cs370/Spring22/
   - CS 435 https://www.cs.colostate.edu/~cs435/Syllabus.html
   - CS 455 https://www.cs.colostate.edu/~csx55/
