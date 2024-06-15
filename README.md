@@ -20,7 +20,7 @@
      - [Git link](https://github.com/Aidan-Slusher/Weather-Accident-Prediction)
   
  ## Course Work
-
+  - CS320 - https://github.com/Aidan-Slusher/CS320
 
   ## Course Websites 
   - CS 250 https://www.cs.colostate.edu/~cs250/assignments.html
