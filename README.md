@@ -8,7 +8,7 @@
  - May 2024 Created a chatbot interaction program for a class project
  - May 2024 With a team created a travel app for a class project
  - March 2025 Started my first software developer role 
- - June 2025 Satellite Tracker 
+ - June 2025 Satellite Tracker Project
  
  ## Table of Contents
   - Project examples
